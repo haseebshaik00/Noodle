@@ -1,0 +1,58 @@
+body
+{	
+	font-family: Calibri, Helvetica, sans-serif;
+	line-height: 1.6;
+	font-style: italic;
+	background-color: #0a3d62;
+	background-image: url("../images/backgrounds/1.jpg");
+	background-repeat: no-repeat;
+    background-size: 100% 200%;
+}
+
+.image1
+{
+	margin-left: 100px;
+	margin-top: 100px;
+	height: 480px;
+	width: 600px;
+	width: 40%;
+}
+
+.text1
+{
+	font-weight: bold;
+	font-color: white;
+	color: white;
+	margin-left: 50px;
+	font-size: 50px;
+	margin-top: 220px;
+	margin-right: 100px;
+}
+
+.wrapper1
+{
+	float: right;
+	position: relative;
+	margin-top: 10px;
+}
+
+.wrapper2
+{
+	position: relative;
+	margin-left: 200px;
+	margin-top: 10px;
+}
+
+.button1
+{
+	font-family: Calibri, Helvetica, sans-serif;
+	padding: 15px;
+	margin: 0px 10px 10px 10px;
+	height: 50px;
+	width: 100px;
+	border-radius: 2px;
+	font-weight: bold;
+	font-size: 100%;
+	border: none; 
+	background-color: white;	
+}
